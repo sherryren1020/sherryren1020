@@ -1,28 +1,12 @@
-### Hi there 👋
-
-Hi there! I'm Shuwei Ren, a fourth-year Applied Computer Science student at Dalhousie University in Canada.
-
-My tech stack is JavaScript, TypeScript, Java, PHP and c#.`JavaScript`
-
-With one co-op and one year of full-time experience as a software developer, I'm passionate about coding, problem-solving, and lifelong learning in the tech world.
-
-I also have over 6 years of work experience in project management, specifically in the ERP software industry.
-
-Outside my academic and professional life, I'm a proud parent of two wonderful kids. Balancing family responsibilities alongside my career has honed my time management and multitasking skills, which I bring to every project I tackle.
-
-Let's connect and explore opportunities together!
-
-My LinkedIn:
-
 # Welcome to my GitHub profile
 
 ## About me
-I'm Mona, an Octocat and GitHub mascot! 
 
-### Likes
-* Tuna melts
-* Beautiful code
-* Swimming in the ocean
+After 7 years in project management, especially in the ERP industry, I'm now diving into computer science.
+I've got hands-on experience with JavaScript, TypeScript, Java, PHP, Python, and C#. 
+With a year of software development under my belt, I'm excited about coding, problem-solving, and the constant learning in tech. 
+This shift lets me blend my pm background with the challenges of computer science. It's not just a career change; it's a mix of my past and a fresh start in the dynamic tech world.
 
 ## Contact me
-Find me over on the [GitHub Blog](https://github.blog/) or on the [GitHub Community Discussions](https://github.com/orgs/community/discussions)
+Find me over on the [GitHub](https://github.com/sherryren1020) or on the [LinkedIn](https://www.linkedin.com/in/shuwei-ren/)
+
