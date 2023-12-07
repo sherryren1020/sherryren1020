@@ -13,3 +13,16 @@ Outside my academic and professional life, I'm a proud parent of two wonderful k
 Let's connect and explore opportunities together!
 
 My LinkedIn:
+
+# Welcome to my GitHub profile
+
+## About me
+I'm Mona, an Octocat and GitHub mascot! 
+
+### Likes
+* Tuna melts
+* Beautiful code
+* Swimming in the ocean
+
+## Contact me
+Find me over on the [GitHub Blog](https://github.blog/) or on the [GitHub Community Discussions](https://github.com/orgs/community/discussions)
